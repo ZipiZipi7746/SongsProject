@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <packageSources>
+    <clear />
+    <add key="local" value="C:\Users\user1\Desktop\programming\SongsProject\packages" />
+  </packageSources>
+  <packageRestore>
+    <add key="enabled" value="False" />
+    <add key="automatic" value="False" />
+  </packageRestore>
+</configuration>

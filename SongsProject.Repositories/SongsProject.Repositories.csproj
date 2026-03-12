@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<RestorePackages>false</RestorePackages>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\SongsProject.Models\SongsProject.Models.csproj" />
+		<ProjectReference Include="..\SongsProject.Data\SongsProject.Data.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Reference Include="Microsoft.EntityFrameworkCore">
+			<HintPath>..\..\..\..\Pictures\lib\net8.0\Microsoft.EntityFrameworkCore.dll</HintPath>
+		</Reference>
+		<Reference Include="Microsoft.EntityFrameworkCore.Abstractions">
+		  <HintPath>..\..\..\..\Downloads\microsoft.entityframeworkcore.abstractions.8.0.0\lib\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll</HintPath>
+		</Reference>
+		<Reference Include="Microsoft.EntityFrameworkCore.SqlServer">
+			<HintPath>..\..\..\..\Downloads\8.0.0\lib\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll</HintPath>
+		</Reference>
+		<Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions">
+			<HintPath>C:\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.24\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+		</Reference>
+	</ItemGroup>
+</Project>

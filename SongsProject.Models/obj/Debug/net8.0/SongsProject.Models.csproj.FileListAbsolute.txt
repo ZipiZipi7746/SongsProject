@@ -1,0 +1,11 @@
+C:\Users\user1\Desktop\programming\SongsProject\SongsProject.Models\bin\Debug\net8.0\SongsProject.Models.deps.json
+C:\Users\user1\Desktop\programming\SongsProject\SongsProject.Models\bin\Debug\net8.0\SongsProject.Models.dll
+C:\Users\user1\Desktop\programming\SongsProject\SongsProject.Models\bin\Debug\net8.0\SongsProject.Models.pdb
+C:\Users\user1\Desktop\programming\SongsProject\SongsProject.Models\obj\Debug\net8.0\SongsProject.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\programming\SongsProject\SongsProject.Models\obj\Debug\net8.0\SongsProject.Models.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\programming\SongsProject\SongsProject.Models\obj\Debug\net8.0\SongsProject.Models.AssemblyInfo.cs
+C:\Users\user1\Desktop\programming\SongsProject\SongsProject.Models\obj\Debug\net8.0\SongsProject.Models.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\programming\SongsProject\SongsProject.Models\obj\Debug\net8.0\SongsProject.Models.dll
+C:\Users\user1\Desktop\programming\SongsProject\SongsProject.Models\obj\Debug\net8.0\refint\SongsProject.Models.dll
+C:\Users\user1\Desktop\programming\SongsProject\SongsProject.Models\obj\Debug\net8.0\SongsProject.Models.pdb
+C:\Users\user1\Desktop\programming\SongsProject\SongsProject.Models\obj\Debug\net8.0\ref\SongsProject.Models.dll

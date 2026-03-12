@@ -1,0 +1,632 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00014D2C-EA44-47A7-8764-1DCB87B5521C}|SongsProject.Services\\SongsProject.Services.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00014D2C-EA44-47A7-8764-1DCB87B5521C}|SongsProject.Services\\SongsProject.Services.csproj|solutionrelative:songsproject.services\\aiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4744645-EE9F-469D-A90D-36FF1A3ACF9A}|SongsProject.Api\\SongsProject.Api.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4744645-EE9F-469D-A90D-36FF1A3ACF9A}|SongsProject.Api\\SongsProject.Api.csproj|solutionrelative:songsproject.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4744645-EE9F-469D-A90D-36FF1A3ACF9A}|SongsProject.Api\\SongsProject.Api.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.api\\songsproject.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4744645-EE9F-469D-A90D-36FF1A3ACF9A}|SongsProject.Api\\SongsProject.Api.csproj|solutionrelative:songsproject.api\\songsproject.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00014D2C-EA44-47A7-8764-1DCB87B5521C}|SongsProject.Services\\SongsProject.Services.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.services\\recommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00014D2C-EA44-47A7-8764-1DCB87B5521C}|SongsProject.Services\\SongsProject.Services.csproj|solutionrelative:songsproject.services\\recommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00014D2C-EA44-47A7-8764-1DCB87B5521C}|SongsProject.Services\\SongsProject.Services.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.services\\recommendationserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00014D2C-EA44-47A7-8764-1DCB87B5521C}|SongsProject.Services\\SongsProject.Services.csproj|solutionrelative:songsproject.services\\recommendationserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4744645-EE9F-469D-A90D-36FF1A3ACF9A}|SongsProject.Api\\SongsProject.Api.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.api\\controllers\\recommendationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4744645-EE9F-469D-A90D-36FF1A3ACF9A}|SongsProject.Api\\SongsProject.Api.csproj|solutionrelative:songsproject.api\\controllers\\recommendationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29614BF6-589E-4809-8229-FE87D05FC98A}|SongsProject.Models\\SongsProject.Models.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.models\\recommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29614BF6-589E-4809-8229-FE87D05FC98A}|SongsProject.Models\\SongsProject.Models.csproj|solutionrelative:songsproject.models\\recommendation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4744645-EE9F-469D-A90D-36FF1A3ACF9A}|SongsProject.Api\\SongsProject.Api.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.api\\controllers\\listeninghistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4744645-EE9F-469D-A90D-36FF1A3ACF9A}|SongsProject.Api\\SongsProject.Api.csproj|solutionrelative:songsproject.api\\controllers\\listeninghistorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4744645-EE9F-469D-A90D-36FF1A3ACF9A}|SongsProject.Api\\SongsProject.Api.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.api\\controllers\\songscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4744645-EE9F-469D-A90D-36FF1A3ACF9A}|SongsProject.Api\\SongsProject.Api.csproj|solutionrelative:songsproject.api\\controllers\\songscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00014D2C-EA44-47A7-8764-1DCB87B5521C}|SongsProject.Services\\SongsProject.Services.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.services\\songsproject.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00014D2C-EA44-47A7-8764-1DCB87B5521C}|SongsProject.Services\\SongsProject.Services.csproj|solutionrelative:songsproject.services\\songsproject.services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00014D2C-EA44-47A7-8764-1DCB87B5521C}|SongsProject.Services\\SongsProject.Services.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.services\\servicedependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00014D2C-EA44-47A7-8764-1DCB87B5521C}|SongsProject.Services\\SongsProject.Services.csproj|solutionrelative:songsproject.services\\servicedependencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4744645-EE9F-469D-A90D-36FF1A3ACF9A}|SongsProject.Api\\SongsProject.Api.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4744645-EE9F-469D-A90D-36FF1A3ACF9A}|SongsProject.Api\\SongsProject.Api.csproj|solutionrelative:songsproject.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4744645-EE9F-469D-A90D-36FF1A3ACF9A}|SongsProject.Api\\SongsProject.Api.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4744645-EE9F-469D-A90D-36FF1A3ACF9A}|SongsProject.Api\\SongsProject.Api.csproj|solutionrelative:songsproject.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4744645-EE9F-469D-A90D-36FF1A3ACF9A}|SongsProject.Api\\SongsProject.Api.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.api\\wwwroot\\audio\\a0037755-ca07-4386-94ed-e20a7bca9c62.mp3||{25834150-CD7E-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{C4744645-EE9F-469D-A90D-36FF1A3ACF9A}|SongsProject.Api\\SongsProject.Api.csproj|solutionrelative:songsproject.api\\wwwroot\\audio\\a0037755-ca07-4386-94ed-e20a7bca9c62.mp3||{25834150-CD7E-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00014D2C-EA44-47A7-8764-1DCB87B5521C}|SongsProject.Services\\SongsProject.Services.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.services\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00014D2C-EA44-47A7-8764-1DCB87B5521C}|SongsProject.Services\\SongsProject.Services.csproj|solutionrelative:songsproject.services\\mapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29614BF6-589E-4809-8229-FE87D05FC98A}|SongsProject.Models\\SongsProject.Models.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.models\\dtos\\songdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29614BF6-589E-4809-8229-FE87D05FC98A}|SongsProject.Models\\SongsProject.Models.csproj|solutionrelative:songsproject.models\\dtos\\songdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4744645-EE9F-469D-A90D-36FF1A3ACF9A}|SongsProject.Api\\SongsProject.Api.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.api\\controllers\\songtagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4744645-EE9F-469D-A90D-36FF1A3ACF9A}|SongsProject.Api\\SongsProject.Api.csproj|solutionrelative:songsproject.api\\controllers\\songtagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29614BF6-589E-4809-8229-FE87D05FC98A}|SongsProject.Models\\SongsProject.Models.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29614BF6-589E-4809-8229-FE87D05FC98A}|SongsProject.Models\\SongsProject.Models.csproj|solutionrelative:songsproject.models\\song.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29614BF6-589E-4809-8229-FE87D05FC98A}|SongsProject.Models\\SongsProject.Models.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29614BF6-589E-4809-8229-FE87D05FC98A}|SongsProject.Models\\SongsProject.Models.csproj|solutionrelative:songsproject.models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00014D2C-EA44-47A7-8764-1DCB87B5521C}|SongsProject.Services\\SongsProject.Services.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.services\\songservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00014D2C-EA44-47A7-8764-1DCB87B5521C}|SongsProject.Services\\SongsProject.Services.csproj|solutionrelative:songsproject.services\\songservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043B67E1-96D6-4F89-AC39-2390EDDCFC84}|SongsProject.Repositories\\SongsProject.Repositories.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.repositories\\listeninghistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043B67E1-96D6-4F89-AC39-2390EDDCFC84}|SongsProject.Repositories\\SongsProject.Repositories.csproj|solutionrelative:songsproject.repositories\\listeninghistoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043B67E1-96D6-4F89-AC39-2390EDDCFC84}|SongsProject.Repositories\\SongsProject.Repositories.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.repositories\\songtagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043B67E1-96D6-4F89-AC39-2390EDDCFC84}|SongsProject.Repositories\\SongsProject.Repositories.csproj|solutionrelative:songsproject.repositories\\songtagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043B67E1-96D6-4F89-AC39-2390EDDCFC84}|SongsProject.Repositories\\SongsProject.Repositories.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.repositories\\recommendationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043B67E1-96D6-4F89-AC39-2390EDDCFC84}|SongsProject.Repositories\\SongsProject.Repositories.csproj|solutionrelative:songsproject.repositories\\recommendationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043B67E1-96D6-4F89-AC39-2390EDDCFC84}|SongsProject.Repositories\\SongsProject.Repositories.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.repositories\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043B67E1-96D6-4F89-AC39-2390EDDCFC84}|SongsProject.Repositories\\SongsProject.Repositories.csproj|solutionrelative:songsproject.repositories\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043B67E1-96D6-4F89-AC39-2390EDDCFC84}|SongsProject.Repositories\\SongsProject.Repositories.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043B67E1-96D6-4F89-AC39-2390EDDCFC84}|SongsProject.Repositories\\SongsProject.Repositories.csproj|solutionrelative:songsproject.repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043B67E1-96D6-4F89-AC39-2390EDDCFC84}|SongsProject.Repositories\\SongsProject.Repositories.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.repositories\\songrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{043B67E1-96D6-4F89-AC39-2390EDDCFC84}|SongsProject.Repositories\\SongsProject.Repositories.csproj|solutionrelative:songsproject.repositories\\songrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{875FAEE2-B826-4248-8419-C14B3FF5253A}|SongsProject.Data\\SongsProject.Data.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.data\\songsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{875FAEE2-B826-4248-8419-C14B3FF5253A}|SongsProject.Data\\SongsProject.Data.csproj|solutionrelative:songsproject.data\\songsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4744645-EE9F-469D-A90D-36FF1A3ACF9A}|SongsProject.Api\\SongsProject.Api.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.api\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4744645-EE9F-469D-A90D-36FF1A3ACF9A}|SongsProject.Api\\SongsProject.Api.csproj|solutionrelative:songsproject.api\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4744645-EE9F-469D-A90D-36FF1A3ACF9A}|SongsProject.Api\\SongsProject.Api.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4744645-EE9F-469D-A90D-36FF1A3ACF9A}|SongsProject.Api\\SongsProject.Api.csproj|solutionrelative:songsproject.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00014D2C-EA44-47A7-8764-1DCB87B5521C}|SongsProject.Services\\SongsProject.Services.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.services\\listeninghistoryserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00014D2C-EA44-47A7-8764-1DCB87B5521C}|SongsProject.Services\\SongsProject.Services.csproj|solutionrelative:songsproject.services\\listeninghistoryserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00014D2C-EA44-47A7-8764-1DCB87B5521C}|SongsProject.Services\\SongsProject.Services.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.services\\songtagserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00014D2C-EA44-47A7-8764-1DCB87B5521C}|SongsProject.Services\\SongsProject.Services.csproj|solutionrelative:songsproject.services\\songtagserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00014D2C-EA44-47A7-8764-1DCB87B5521C}|SongsProject.Services\\SongsProject.Services.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.services\\tagserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00014D2C-EA44-47A7-8764-1DCB87B5521C}|SongsProject.Services\\SongsProject.Services.csproj|solutionrelative:songsproject.services\\tagserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00014D2C-EA44-47A7-8764-1DCB87B5521C}|SongsProject.Services\\SongsProject.Services.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.services\\userserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00014D2C-EA44-47A7-8764-1DCB87B5521C}|SongsProject.Services\\SongsProject.Services.csproj|solutionrelative:songsproject.services\\userserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00014D2C-EA44-47A7-8764-1DCB87B5521C}|SongsProject.Services\\SongsProject.Services.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.services\\songserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00014D2C-EA44-47A7-8764-1DCB87B5521C}|SongsProject.Services\\SongsProject.Services.csproj|solutionrelative:songsproject.services\\songserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00014D2C-EA44-47A7-8764-1DCB87B5521C}|SongsProject.Services\\SongsProject.Services.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.services\\interfaces\\ilisteninghistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00014D2C-EA44-47A7-8764-1DCB87B5521C}|SongsProject.Services\\SongsProject.Services.csproj|solutionrelative:songsproject.services\\interfaces\\ilisteninghistoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00014D2C-EA44-47A7-8764-1DCB87B5521C}|SongsProject.Services\\SongsProject.Services.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.services\\interfaces\\isongtagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00014D2C-EA44-47A7-8764-1DCB87B5521C}|SongsProject.Services\\SongsProject.Services.csproj|solutionrelative:songsproject.services\\interfaces\\isongtagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00014D2C-EA44-47A7-8764-1DCB87B5521C}|SongsProject.Services\\SongsProject.Services.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.services\\interfaces\\irecommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00014D2C-EA44-47A7-8764-1DCB87B5521C}|SongsProject.Services\\SongsProject.Services.csproj|solutionrelative:songsproject.services\\interfaces\\irecommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{043B67E1-96D6-4F89-AC39-2390EDDCFC84}|SongsProject.Repositories\\SongsProject.Repositories.csproj|c:\\users\\user1\\desktop\\programming\\songsproject\\songsproject.repositories\\songsproject.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{043B67E1-96D6-4F89-AC39-2390EDDCFC84}|SongsProject.Repositories\\SongsProject.Repositories.csproj|solutionrelative:songsproject.repositories\\songsproject.repositories.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SongsProject.Repositories.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Repositories\\SongsProject.Repositories.csproj",
+              "RelativeDocumentMoniker": "SongsProject.Repositories\\SongsProject.Repositories.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Repositories\\SongsProject.Repositories.csproj",
+              "RelativeToolTip": "SongsProject.Repositories\\SongsProject.Repositories.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-08T13:01:33.563Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Recommendation.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Models\\Recommendation.cs",
+              "RelativeDocumentMoniker": "SongsProject.Models\\Recommendation.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Models\\Recommendation.cs",
+              "RelativeToolTip": "SongsProject.Models\\Recommendation.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAqwBQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T03:36:30.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AIService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Services\\AIService.cs",
+              "RelativeDocumentMoniker": "SongsProject.Services\\AIService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Services\\AIService.cs",
+              "RelativeToolTip": "SongsProject.Services\\AIService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBQAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T03:28:16.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RecommendationService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Services\\RecommendationService.cs",
+              "RelativeDocumentMoniker": "SongsProject.Services\\RecommendationService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Services\\RecommendationService.cs",
+              "RelativeToolTip": "SongsProject.Services\\RecommendationService.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAtwJAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T03:26:25.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "a0037755-ca07-4386-94ed-e20a7bca9c62.mp3",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Api\\wwwroot\\audio\\a0037755-ca07-4386-94ed-e20a7bca9c62.mp3",
+              "RelativeDocumentMoniker": "SongsProject.Api\\wwwroot\\audio\\a0037755-ca07-4386-94ed-e20a7bca9c62.mp3",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Api\\wwwroot\\audio\\a0037755-ca07-4386-94ed-e20a7bca9c62.mp3",
+              "RelativeToolTip": "SongsProject.Api\\wwwroot\\audio\\a0037755-ca07-4386-94ed-e20a7bca9c62.mp3",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPcSURBVDhPlZTfb9tUFMeP7djX9zq/7CSN0zSJ07RxQ1lbBBs/ttKugYJ4gGlbxwQCgQRsQkITvPAEb7zywBP8A7yy/wDQEILBJqSt6gra6K\u002BQdkmbNE3ixD9xilU0pR3iIx3Zvt9zvtY599oM/AenFVr95gJ7\u002BfJjztzv27C1sgtVT\u002BrHcRzauz2UYo4T3phCkxIyLsWw/c6bE\u002BxUMesLeHI/FEU91FCKROKJVFblRHmIleSknB4uSJFYwpMP5aGGjpjNWCPzaqewAO2xc2Dknh\u002Bz3TVPPpQjDUNhkRLSk4r1yNlC4/GPoDb1IejqmTGcmlB6mpfWx5GGr5y/yD19ajaNeGF4P41igUVEeerUdPrMwkXspfVxpGG4elOJbl1Lh7d/Edjt24DqiyDu3CTR8g\u002Bp4NYN9yWHc\u002BSxmZU7zx7D94ty98\u002BRYG0RyM4N4Eq/0sba4s7qysbaj\u002Bvaopf6AH2GyEdBQRbgZERbGOUqJwf0lSipLwNuLQNbXwWtumPer5uVTZv/blczwbK9Qo\u002B\u002BlkOEhbdmctxwLDDG\u002BhiZYmiwgQLHDZqjgUOMrET96tuzIyhMOK/qX/oMHRTi9tTzijE2n7YT40ELR8BmeLDcMHkJjAFV6OaLyUb\u002BXM5GQeSVHfBAy0\u002BqUd\u002BVs1NRn6TMCanxIqccH3DSz4CWnIbW0GmoyTNQkU5QNTLU6nbbpXFubaO229Qqe8ZB4weG08cGw6\u002BfiD0xk7Bfq9ric3xqYpSLq4QSFTBCWegGc6CRFOxxUWjpNm2VlsQJbTkV4Cmj7TCNcr2r9XwODN99YVhdKKBXzbtLH9R0nCexJOEJcUfIgEP/Mxnb6ILVroNVWeGtP65nY\u002BWl4/lUUGv72NWf7zXKvZx9Q4xYmFeZmXF/66VmeTvfqWxRYbZNEboDjKMDbbbA162Br7kG3OZvwN67Rjl3fqJ4o\u002B3zh9juRttevV7Sb5lmb/tcvvz0AlWMlz72l29dqq03MptVGsJhDIIfA4tZYBgGfMjdZcoEvalDvdqB8pYGUdGGSEb4S09PfPX9bvaz9z752t7vJSvzcixgKERoD0QHAZSkDSJuATGrgPbKgBobwNXXATXLQJxtiIZaMJqzITXq/pHincig7GRGhgS30js2yC6Pc3wrww9wOJglEM8TkDIEAkkCQoIAiRPgYwSQG1gmEHK1RIGAOOJqgwghfyvFwcajB4b6zt1sR2tIHQZDl8VgBtxvP4SBEt2IYHAkDLY7gt665Y7BEjAYBIPmw9AG99qsS3p1Kdvz2p/h5y9yL0\u002BK1hXeseZ6z/8Xi2W\u002Bvb3HfPH\u002BVf3q36OOThi\u002Bn\u002B0eAAAAAElFTkSuQmCC",
+              "WhenOpened": "2026-03-11T03:15:53.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Mapper.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Services\\Mapper.cs",
+              "RelativeDocumentMoniker": "SongsProject.Services\\Mapper.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Services\\Mapper.cs",
+              "RelativeToolTip": "SongsProject.Services\\Mapper.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T02:35:02.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SongDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Models\\DTOs\\SongDto.cs",
+              "RelativeDocumentMoniker": "SongsProject.Models\\DTOs\\SongDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Models\\DTOs\\SongDto.cs",
+              "RelativeToolTip": "SongsProject.Models\\DTOs\\SongDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T02:34:25.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SongsController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Api\\Controllers\\SongsController.cs",
+              "RelativeDocumentMoniker": "SongsProject.Api\\Controllers\\SongsController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Api\\Controllers\\SongsController.cs",
+              "RelativeToolTip": "SongsProject.Api\\Controllers\\SongsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T02:31:53.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Api\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SongsProject.Api\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Api\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SongsProject.Api\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T02:29:04.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Song.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Models\\Song.cs",
+              "RelativeDocumentMoniker": "SongsProject.Models\\Song.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Models\\Song.cs",
+              "RelativeToolTip": "SongsProject.Models\\Song.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAiwBQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T02:24:23.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Models\\Users.cs",
+              "RelativeDocumentMoniker": "SongsProject.Models\\Users.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Models\\Users.cs",
+              "RelativeToolTip": "SongsProject.Models\\Users.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA6wBQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T02:24:02.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SongService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Services\\SongService.cs",
+              "RelativeDocumentMoniker": "SongsProject.Services\\SongService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Services\\SongService.cs",
+              "RelativeToolTip": "SongsProject.Services\\SongService.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAowBwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T01:30:53.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ListeningHistoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Repositories\\ListeningHistoryRepository.cs",
+              "RelativeDocumentMoniker": "SongsProject.Repositories\\ListeningHistoryRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Repositories\\ListeningHistoryRepository.cs",
+              "RelativeToolTip": "SongsProject.Repositories\\ListeningHistoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T01:29:16.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SongTagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Repositories\\SongTagRepository.cs",
+              "RelativeDocumentMoniker": "SongsProject.Repositories\\SongTagRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Repositories\\SongTagRepository.cs",
+              "RelativeToolTip": "SongsProject.Repositories\\SongTagRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T01:29:06.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RecommendationRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Repositories\\RecommendationRepository.cs",
+              "RelativeDocumentMoniker": "SongsProject.Repositories\\RecommendationRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Repositories\\RecommendationRepository.cs",
+              "RelativeToolTip": "SongsProject.Repositories\\RecommendationRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T01:28:52.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "TagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Repositories\\TagRepository.cs",
+              "RelativeDocumentMoniker": "SongsProject.Repositories\\TagRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Repositories\\TagRepository.cs",
+              "RelativeToolTip": "SongsProject.Repositories\\TagRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T01:28:40.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "SongsProject.Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Repositories\\UserRepository.cs",
+              "RelativeToolTip": "SongsProject.Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T01:28:25.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SongRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Repositories\\SongRepository.cs",
+              "RelativeDocumentMoniker": "SongsProject.Repositories\\SongRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Repositories\\SongRepository.cs",
+              "RelativeToolTip": "SongsProject.Repositories\\SongRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T01:28:12.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SongsProject.Api.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Api\\SongsProject.Api.csproj",
+              "RelativeDocumentMoniker": "SongsProject.Api\\SongsProject.Api.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Api\\SongsProject.Api.csproj",
+              "RelativeToolTip": "SongsProject.Api\\SongsProject.Api.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-11T01:26:34.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SongsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Data\\SongsDbContext.cs",
+              "RelativeDocumentMoniker": "SongsProject.Data\\SongsDbContext.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Data\\SongsDbContext.cs",
+              "RelativeToolTip": "SongsProject.Data\\SongsDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T01:25:20.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "SongsProject.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Api\\appsettings.json",
+              "RelativeToolTip": "SongsProject.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-11T01:24:52.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListeningHistoryController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Api\\Controllers\\ListeningHistoryController.cs",
+              "RelativeDocumentMoniker": "SongsProject.Api\\Controllers\\ListeningHistoryController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Api\\Controllers\\ListeningHistoryController.cs",
+              "RelativeToolTip": "SongsProject.Api\\Controllers\\ListeningHistoryController.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAkwDQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T01:18:32.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SongTagsController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Api\\Controllers\\SongTagsController.cs",
+              "RelativeDocumentMoniker": "SongsProject.Api\\Controllers\\SongTagsController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Api\\Controllers\\SongTagsController.cs",
+              "RelativeToolTip": "SongsProject.Api\\Controllers\\SongTagsController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAADwvxwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T01:18:21.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RecommendationsController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Api\\Controllers\\RecommendationsController.cs",
+              "RelativeDocumentMoniker": "SongsProject.Api\\Controllers\\RecommendationsController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Api\\Controllers\\RecommendationsController.cs",
+              "RelativeToolTip": "SongsProject.Api\\Controllers\\RecommendationsController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA1wCcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T01:18:11.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "TagsController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Api\\Controllers\\TagsController.cs",
+              "RelativeDocumentMoniker": "SongsProject.Api\\Controllers\\TagsController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Api\\Controllers\\TagsController.cs",
+              "RelativeToolTip": "SongsProject.Api\\Controllers\\TagsController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvywAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T01:18:00.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "SongsProject.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "SongsProject.Api\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvywAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T01:17:43.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SongsProject.Services.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Services\\SongsProject.Services.csproj",
+              "RelativeDocumentMoniker": "SongsProject.Services\\SongsProject.Services.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Services\\SongsProject.Services.csproj",
+              "RelativeToolTip": "SongsProject.Services\\SongsProject.Services.csproj",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBcAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-11T01:16:48.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Api\\Program.cs",
+              "RelativeDocumentMoniker": "SongsProject.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Api\\Program.cs",
+              "RelativeToolTip": "SongsProject.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T01:15:38.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ServiceDependencies.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Services\\ServiceDependencies.cs",
+              "RelativeDocumentMoniker": "SongsProject.Services\\ServiceDependencies.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Services\\ServiceDependencies.cs",
+              "RelativeToolTip": "SongsProject.Services\\ServiceDependencies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T01:13:18.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ListeningHistoryServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Services\\ListeningHistoryServiceImpl.cs",
+              "RelativeDocumentMoniker": "SongsProject.Services\\ListeningHistoryServiceImpl.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Services\\ListeningHistoryServiceImpl.cs",
+              "RelativeToolTip": "SongsProject.Services\\ListeningHistoryServiceImpl.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA2wCMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T01:12:32.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "SongTagServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Services\\SongTagServiceImpl.cs",
+              "RelativeDocumentMoniker": "SongsProject.Services\\SongTagServiceImpl.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Services\\SongTagServiceImpl.cs",
+              "RelativeToolTip": "SongsProject.Services\\SongTagServiceImpl.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAcwB0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T01:12:10.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RecommendationServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Services\\RecommendationServiceImpl.cs",
+              "RelativeDocumentMoniker": "SongsProject.Services\\RecommendationServiceImpl.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Services\\RecommendationServiceImpl.cs",
+              "RelativeToolTip": "SongsProject.Services\\RecommendationServiceImpl.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T01:11:45.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "TagServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Services\\TagServiceImpl.cs",
+              "RelativeDocumentMoniker": "SongsProject.Services\\TagServiceImpl.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Services\\TagServiceImpl.cs",
+              "RelativeToolTip": "SongsProject.Services\\TagServiceImpl.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAcwCwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T01:11:19.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UserServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Services\\UserServiceImpl.cs",
+              "RelativeDocumentMoniker": "SongsProject.Services\\UserServiceImpl.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Services\\UserServiceImpl.cs",
+              "RelativeToolTip": "SongsProject.Services\\UserServiceImpl.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T01:10:53.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "SongServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Services\\SongServiceImpl.cs",
+              "RelativeDocumentMoniker": "SongsProject.Services\\SongServiceImpl.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Services\\SongServiceImpl.cs",
+              "RelativeToolTip": "SongsProject.Services\\SongServiceImpl.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAADwv0gAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T01:09:48.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IListeningHistoryService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Services\\Interfaces\\IListeningHistoryService.cs",
+              "RelativeDocumentMoniker": "SongsProject.Services\\Interfaces\\IListeningHistoryService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Services\\Interfaces\\IListeningHistoryService.cs",
+              "RelativeToolTip": "SongsProject.Services\\Interfaces\\IListeningHistoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T01:07:16.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ISongTagService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Services\\Interfaces\\ISongTagService.cs",
+              "RelativeDocumentMoniker": "SongsProject.Services\\Interfaces\\ISongTagService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Services\\Interfaces\\ISongTagService.cs",
+              "RelativeToolTip": "SongsProject.Services\\Interfaces\\ISongTagService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T01:06:47.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IRecommendationService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Services\\Interfaces\\IRecommendationService.cs",
+              "RelativeDocumentMoniker": "SongsProject.Services\\Interfaces\\IRecommendationService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\programming\\SongsProject\\SongsProject.Services\\Interfaces\\IRecommendationService.cs",
+              "RelativeToolTip": "SongsProject.Services\\Interfaces\\IRecommendationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T01:06:21.277Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

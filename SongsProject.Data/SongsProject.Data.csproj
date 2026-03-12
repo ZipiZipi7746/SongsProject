@@ -1,0 +1,37 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+	<PropertyGroup>
+		<TargetFramework>net8.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<RestorePackages>false</RestorePackages>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\SongsProject.Models\SongsProject.Models.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<Reference Include="Microsoft.EntityFrameworkCore">
+			<HintPath>..\..\..\..\Pictures\lib\net8.0\Microsoft.EntityFrameworkCore.dll</HintPath>
+		</Reference>
+		<Reference Include="Microsoft.EntityFrameworkCore.Abstractions">
+		  <HintPath>..\..\..\..\Downloads\microsoft.entityframeworkcore.abstractions.8.0.0\lib\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll</HintPath>
+		</Reference>
+		<Reference Include="Microsoft.EntityFrameworkCore.SqlServer">
+			<HintPath>..\..\..\..\Downloads\8.0.0\lib\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll</HintPath>
+		</Reference>
+		<Reference Include="Microsoft.EntityFrameworkCore.Abstractions">
+			<HintPath>C:\Users\user1\Downloads\microsoft.entityframeworkcore.abstractions.8.0.0\lib\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll</HintPath>
+			<Private>true</Private>
+		</Reference>
+		<Reference Include="Microsoft.EntityFrameworkCore.Relational">
+			<HintPath>C:\Users\user1\Downloads\microsoft.entityframeworkcore.relational.8.0.0\lib\net8.0\Microsoft.EntityFrameworkCore.Relational.dll</HintPath>
+			<Private>true</Private>
+		</Reference>
+	</ItemGroup>
+
+	<ItemGroup>
+	  <PackageReference Include="Microsoft.Data.SqlClient" Version="5.0.0" />
+	</ItemGroup>
+
+</Project>
